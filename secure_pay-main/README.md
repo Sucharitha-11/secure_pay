@@ -39,7 +39,7 @@ secure_pay/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SaiHansikaBoddu/secure_pay.git
+git clone https://github.com/Sucharitha-11/secure_pay.git
 cd secure_pay
 ```
 
